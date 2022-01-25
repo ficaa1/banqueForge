@@ -161,6 +161,54 @@
                     ]
                 }
             ]
+        },
+        {
+            "file": "src/main/webapp/WEB-INF/client/crediter.jsp",
+            "propagations": [
+                {
+                    "featureKey": "dcae8c68-51fb-4d53-a4af-2684f3e707be",
+                    "ranges": [
+                        {
+                            "propagationId": "559c0821-6082-45a0-a4d2-2cc7e1d215c6",
+                            "sourceId": "559c0821-6082-45a0-a4d2-2cc7e1d215c6",
+                            "startLine": 19,
+                            "startColumn": 0,
+                            "endLine": 65,
+                            "endColumn": 113,
+                            "isValidated": true,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "libraryId": "-Without-Anglais-credit",
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "file": "src/main/webapp/WEB-INF/client/retrait.jsp",
+            "propagations": [
+                {
+                    "featureKey": "dcae8c68-51fb-4d53-a4af-2684f3e707be",
+                    "ranges": [
+                        {
+                            "propagationId": "502c24d6-76d7-414a-b1ce-bbbc2c494d63",
+                            "sourceId": "502c24d6-76d7-414a-b1ce-bbbc2c494d63",
+                            "startLine": 19,
+                            "startColumn": 0,
+                            "endLine": 49,
+                            "endColumn": 46,
+                            "isValidated": true,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "libraryId": "-Without-Anglais-withdraw",
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
         }
     ],
     "resourcePropagations": [],
