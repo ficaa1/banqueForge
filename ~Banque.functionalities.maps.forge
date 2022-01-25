@@ -54,6 +54,23 @@
                     "isValidated": true
                 }
             ]
+        },
+        {
+            "file": "src/main/webapp/WEB-INF/client/index.jsp",
+            "seeds": [
+                {
+                    "id": "594019d3-1204-4831-a66d-feeaee2b6198",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "dcae8c68-51fb-4d53-a4af-2684f3e707be",
+                    "startLine": 19,
+                    "startColumn": 0,
+                    "endLine": 51,
+                    "endColumn": 39,
+                    "type": "Replacement",
+                    "libraryId": "-Without-Anglais-indexclient",
+                    "isValidated": true
+                }
+            ]
         }
     ],
     "fileSeeds": []

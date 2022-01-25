@@ -89,6 +89,30 @@
                     ]
                 }
             ]
+        },
+        {
+            "file": "src/main/webapp/WEB-INF/client/index.jsp",
+            "propagations": [
+                {
+                    "featureKey": "dcae8c68-51fb-4d53-a4af-2684f3e707be",
+                    "ranges": [
+                        {
+                            "propagationId": "594019d3-1204-4831-a66d-feeaee2b6198",
+                            "sourceId": "594019d3-1204-4831-a66d-feeaee2b6198",
+                            "startLine": 19,
+                            "startColumn": 0,
+                            "endLine": 51,
+                            "endColumn": 39,
+                            "isValidated": true,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "libraryId": "-Without-Anglais-indexclient",
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
         }
     ],
     "resourcePropagations": [],
