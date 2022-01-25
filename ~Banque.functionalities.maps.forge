@@ -1,0 +1,60 @@
+{
+    "rangeSeeds": [
+        {
+            "file": "src/main/webapp/WEB-INF/client/menu.jsp",
+            "seeds": [
+                {
+                    "id": "5edc26a8-8f14-46d8-b729-f92936ffbff1",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "0d1def7d-6140-4bb3-86b3-a98fedfb7c66",
+                    "startLine": 19,
+                    "startColumn": 0,
+                    "endLine": 20,
+                    "endColumn": 0,
+                    "type": "Deletion",
+                    "isValidated": true
+                }
+            ]
+        },
+        {
+            "file": "src/main/webapp/WEB-INF/index.jsp",
+            "seeds": [
+                {
+                    "id": "0ac06259-aec3-4f52-aee9-f323b89724f6",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "dcae8c68-51fb-4d53-a4af-2684f3e707be",
+                    "startLine": 11,
+                    "startColumn": 0,
+                    "endLine": 72,
+                    "endColumn": 110,
+                    "type": "Replacement",
+                    "libraryId": "-Without-Anglais-mainindex",
+                    "isValidated": true
+                },
+                {
+                    "id": "42063487-b107-40fe-b5cd-e5cb3a6e284f",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "95536f76-3aed-43b7-83aa-a39ffb8a0988",
+                    "startLine": 73,
+                    "startColumn": 1,
+                    "endLine": 73,
+                    "endColumn": 158,
+                    "type": "Deletion",
+                    "isValidated": true
+                },
+                {
+                    "id": "6516107b-58b3-475a-b95d-a48d3fe9506c",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "b35994de-73cb-479b-a7a7-f14497e521ba",
+                    "startLine": 74,
+                    "startColumn": 0,
+                    "endLine": 75,
+                    "endColumn": 0,
+                    "type": "Deletion",
+                    "isValidated": true
+                }
+            ]
+        }
+    ],
+    "fileSeeds": []
+}

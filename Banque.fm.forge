@@ -1,0 +1,88 @@
+{
+    "core": {
+        "key": "b4ed07ac-fa7c-4d69-81a0-c59ddf2ee8c6",
+        "name": "Banque",
+        "type": "Core",
+        "parent": "-1",
+        "parentRelation": "Normal",
+        "presence": "Mandatory",
+        "lgFile": "",
+        "role": "",
+        "hexColor": "",
+        "help": "",
+        "nodeWeight": -1
+    },
+    "functionalities": [
+        {
+            "key": "0d1def7d-6140-4bb3-86b3-a98fedfb7c66",
+            "name": "Convertisseur",
+            "type": "Functionality feature",
+            "parent": "b4ed07ac-fa7c-4d69-81a0-c59ddf2ee8c6",
+            "parentRelation": "Normal",
+            "presence": "Optional",
+            "lgFile": "",
+            "role": "",
+            "hexColor": "#8786f1",
+            "help": "",
+            "nodeWeight": -1
+        },
+        {
+            "key": "8e017b23-3ab4-43e2-a466-2f7f9e9a8013",
+            "name": "Login",
+            "type": "Functionality feature",
+            "parent": "b4ed07ac-fa7c-4d69-81a0-c59ddf2ee8c6",
+            "parentRelation": "Normal",
+            "presence": "Mandatory",
+            "lgFile": "",
+            "role": "",
+            "hexColor": "#2cf664",
+            "help": "",
+            "nodeWeight": -1
+        },
+        {
+            "key": "b35994de-73cb-479b-a7a7-f14497e521ba",
+            "name": "Github",
+            "type": "Functionality feature",
+            "parent": "8e017b23-3ab4-43e2-a466-2f7f9e9a8013",
+            "parentRelation": "Normal",
+            "presence": "Optional",
+            "lgFile": "",
+            "role": "",
+            "hexColor": "#a838c3",
+            "help": "",
+            "nodeWeight": -1
+        },
+        {
+            "key": "95536f76-3aed-43b7-83aa-a39ffb8a0988",
+            "name": "Google",
+            "type": "Functionality feature",
+            "parent": "8e017b23-3ab4-43e2-a466-2f7f9e9a8013",
+            "parentRelation": "Normal",
+            "presence": "Optional",
+            "lgFile": "",
+            "role": "",
+            "hexColor": "#6a4896",
+            "help": "",
+            "nodeWeight": -1
+        },
+        {
+            "key": "dcae8c68-51fb-4d53-a4af-2684f3e707be",
+            "name": "Anglais",
+            "type": "Functionality feature",
+            "parent": "b4ed07ac-fa7c-4d69-81a0-c59ddf2ee8c6",
+            "parentRelation": "Normal",
+            "presence": "Optional",
+            "lgFile": "",
+            "role": "",
+            "hexColor": "#38d85a",
+            "help": "",
+            "nodeWeight": -1
+        }
+    ],
+    "fileResources": [],
+    "textResources": [],
+    "smartAppAssetResources": [],
+    "colorResources": [],
+    "referencedModels": [],
+    "constraints": []
+}

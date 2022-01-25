@@ -1,0 +1,96 @@
+{
+    "deletionPropagations": [
+        {
+            "file": "src/main/webapp/WEB-INF/client/menu.jsp",
+            "propagations": [
+                {
+                    "featureKey": "0d1def7d-6140-4bb3-86b3-a98fedfb7c66",
+                    "ranges": [
+                        {
+                            "propagationId": "5edc26a8-8f14-46d8-b729-f92936ffbff1",
+                            "sourceId": "5edc26a8-8f14-46d8-b729-f92936ffbff1",
+                            "startLine": 19,
+                            "startColumn": 0,
+                            "endLine": 20,
+                            "endColumn": 0,
+                            "isValidated": true,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "file": "src/main/webapp/WEB-INF/index.jsp",
+            "propagations": [
+                {
+                    "featureKey": "95536f76-3aed-43b7-83aa-a39ffb8a0988",
+                    "ranges": [
+                        {
+                            "propagationId": "42063487-b107-40fe-b5cd-e5cb3a6e284f",
+                            "sourceId": "42063487-b107-40fe-b5cd-e5cb3a6e284f",
+                            "startLine": 73,
+                            "startColumn": 1,
+                            "endLine": 73,
+                            "endColumn": 158,
+                            "isValidated": true,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "featureKey": "b35994de-73cb-479b-a7a7-f14497e521ba",
+                    "ranges": [
+                        {
+                            "propagationId": "6516107b-58b3-475a-b95d-a48d3fe9506c",
+                            "sourceId": "6516107b-58b3-475a-b95d-a48d3fe9506c",
+                            "startLine": 74,
+                            "startColumn": 0,
+                            "endLine": 75,
+                            "endColumn": 0,
+                            "isValidated": true,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "replacementPropagations": [
+        {
+            "file": "src/main/webapp/WEB-INF/index.jsp",
+            "propagations": [
+                {
+                    "featureKey": "dcae8c68-51fb-4d53-a4af-2684f3e707be",
+                    "ranges": [
+                        {
+                            "propagationId": "0ac06259-aec3-4f52-aee9-f323b89724f6",
+                            "sourceId": "0ac06259-aec3-4f52-aee9-f323b89724f6",
+                            "startLine": 11,
+                            "startColumn": 0,
+                            "endLine": 72,
+                            "endColumn": 110,
+                            "isValidated": true,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "libraryId": "-Without-Anglais-mainindex",
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "resourcePropagations": [],
+    "pathPropagations": []
+}
