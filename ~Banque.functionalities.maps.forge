@@ -197,6 +197,23 @@
                     "isValidated": true
                 }
             ]
+        },
+        {
+            "file": "src/main/webapp/WEB-INF/admin/addadmin.jsp",
+            "seeds": [
+                {
+                    "id": "cd546966-a340-482a-b299-d3de7f085d46",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "dcae8c68-51fb-4d53-a4af-2684f3e707be",
+                    "startLine": 14,
+                    "startColumn": 0,
+                    "endLine": 45,
+                    "endColumn": 69,
+                    "type": "Replacement",
+                    "libraryId": "-Without-Anglais-createadmin",
+                    "isValidated": true
+                }
+            ]
         }
     ],
     "fileSeeds": []
