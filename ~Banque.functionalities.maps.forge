@@ -71,6 +71,40 @@
                     "isValidated": true
                 }
             ]
+        },
+        {
+            "file": "src/main/webapp/WEB-INF/client/virement.jsp",
+            "seeds": [
+                {
+                    "id": "3ef509b4-d2fd-4ca3-a0dd-7b3cf6d185d1",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "dcae8c68-51fb-4d53-a4af-2684f3e707be",
+                    "startLine": 19,
+                    "startColumn": 0,
+                    "endLine": 56,
+                    "endColumn": 47,
+                    "type": "Replacement",
+                    "libraryId": "-Without-Anglais-virement",
+                    "isValidated": true
+                }
+            ]
+        },
+        {
+            "file": "src/main/webapp/WEB-INF/client/index_converter.jsp",
+            "seeds": [
+                {
+                    "id": "5a2ac831-1f2a-4cbf-b800-a93ccc0af34d",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "dcae8c68-51fb-4d53-a4af-2684f3e707be",
+                    "startLine": 20,
+                    "startColumn": 9,
+                    "endLine": 147,
+                    "endColumn": 7,
+                    "type": "Replacement",
+                    "libraryId": "-Without-Anglais-convertisseur",
+                    "isValidated": true
+                }
+            ]
         }
     ],
     "fileSeeds": []

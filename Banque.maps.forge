@@ -113,6 +113,54 @@
                     ]
                 }
             ]
+        },
+        {
+            "file": "src/main/webapp/WEB-INF/client/virement.jsp",
+            "propagations": [
+                {
+                    "featureKey": "dcae8c68-51fb-4d53-a4af-2684f3e707be",
+                    "ranges": [
+                        {
+                            "propagationId": "3ef509b4-d2fd-4ca3-a0dd-7b3cf6d185d1",
+                            "sourceId": "3ef509b4-d2fd-4ca3-a0dd-7b3cf6d185d1",
+                            "startLine": 19,
+                            "startColumn": 0,
+                            "endLine": 56,
+                            "endColumn": 47,
+                            "isValidated": true,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "libraryId": "-Without-Anglais-virement",
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "file": "src/main/webapp/WEB-INF/client/index_converter.jsp",
+            "propagations": [
+                {
+                    "featureKey": "dcae8c68-51fb-4d53-a4af-2684f3e707be",
+                    "ranges": [
+                        {
+                            "propagationId": "5a2ac831-1f2a-4cbf-b800-a93ccc0af34d",
+                            "sourceId": "5a2ac831-1f2a-4cbf-b800-a93ccc0af34d",
+                            "startLine": 20,
+                            "startColumn": 9,
+                            "endLine": 147,
+                            "endColumn": 7,
+                            "isValidated": true,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "libraryId": "-Without-Anglais-convertisseur",
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
         }
     ],
     "resourcePropagations": [],
