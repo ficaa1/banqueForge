@@ -209,6 +209,92 @@
                     ]
                 }
             ]
+        },
+        {
+            "file": "src/main/webapp/WEB-INF/client/menu.jsp",
+            "propagations": [
+                {
+                    "featureKey": "dcae8c68-51fb-4d53-a4af-2684f3e707be",
+                    "ranges": [
+                        {
+                            "propagationId": "74125e34-a36c-48dd-9309-08738a57fb2d",
+                            "sourceId": "74125e34-a36c-48dd-9309-08738a57fb2d",
+                            "startLine": 21,
+                            "startColumn": 0,
+                            "endLine": 21,
+                            "endColumn": 76,
+                            "isValidated": true,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "libraryId": "-Without-Anglais-disconnect",
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "379de3dd-d912-4efe-9ddf-32805d5c7188",
+                            "sourceId": "379de3dd-d912-4efe-9ddf-32805d5c7188",
+                            "startLine": 11,
+                            "startColumn": 0,
+                            "endLine": 18,
+                            "endColumn": 75,
+                            "isValidated": true,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "libraryId": "-Without-Anglaismenu",
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "file": "src/main/webapp/WEB-INF/admin/index.jsp",
+            "propagations": [
+                {
+                    "featureKey": "dcae8c68-51fb-4d53-a4af-2684f3e707be",
+                    "ranges": [
+                        {
+                            "propagationId": "c86a9a48-6fd2-44fd-a553-e34e0cc6e89d",
+                            "sourceId": "c86a9a48-6fd2-44fd-a553-e34e0cc6e89d",
+                            "startLine": 19,
+                            "startColumn": 0,
+                            "endLine": 108,
+                            "endColumn": 34,
+                            "isValidated": true,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "libraryId": "-Without-Anglais-index-admin",
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "file": "src/main/webapp/WEB-INF/admin/addcompte.jsp",
+            "propagations": [
+                {
+                    "featureKey": "dcae8c68-51fb-4d53-a4af-2684f3e707be",
+                    "ranges": [
+                        {
+                            "propagationId": "2a9ef5e4-bb3a-4f13-a336-47d1f8fb986a",
+                            "sourceId": "2a9ef5e4-bb3a-4f13-a336-47d1f8fb986a",
+                            "startLine": 14,
+                            "startColumn": 0,
+                            "endLine": 51,
+                            "endColumn": 74,
+                            "isValidated": true,
+                            "analyzer": "Interoperable analyzer",
+                            "isFromMarker": true,
+                            "libraryId": "-Without-Anglais-admin-createaccount",
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
         }
     ],
     "resourcePropagations": [],

@@ -4,6 +4,18 @@
             "file": "src/main/webapp/WEB-INF/client/menu.jsp",
             "seeds": [
                 {
+                    "id": "379de3dd-d912-4efe-9ddf-32805d5c7188",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "dcae8c68-51fb-4d53-a4af-2684f3e707be",
+                    "startLine": 11,
+                    "startColumn": 0,
+                    "endLine": 18,
+                    "endColumn": 75,
+                    "type": "Replacement",
+                    "libraryId": "-Without-Anglaismenu",
+                    "isValidated": true
+                },
+                {
                     "id": "5edc26a8-8f14-46d8-b729-f92936ffbff1",
                     "analyzer": "Interoperable analyzer",
                     "featureKey": "0d1def7d-6140-4bb3-86b3-a98fedfb7c66",
@@ -12,6 +24,18 @@
                     "endLine": 20,
                     "endColumn": 0,
                     "type": "Deletion",
+                    "isValidated": true
+                },
+                {
+                    "id": "74125e34-a36c-48dd-9309-08738a57fb2d",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "dcae8c68-51fb-4d53-a4af-2684f3e707be",
+                    "startLine": 21,
+                    "startColumn": 0,
+                    "endLine": 21,
+                    "endColumn": 76,
+                    "type": "Replacement",
+                    "libraryId": "-Without-Anglais-disconnect",
                     "isValidated": true
                 }
             ]
@@ -136,6 +160,40 @@
                     "endColumn": 46,
                     "type": "Replacement",
                     "libraryId": "-Without-Anglais-withdraw",
+                    "isValidated": true
+                }
+            ]
+        },
+        {
+            "file": "src/main/webapp/WEB-INF/admin/index.jsp",
+            "seeds": [
+                {
+                    "id": "c86a9a48-6fd2-44fd-a553-e34e0cc6e89d",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "dcae8c68-51fb-4d53-a4af-2684f3e707be",
+                    "startLine": 19,
+                    "startColumn": 0,
+                    "endLine": 108,
+                    "endColumn": 34,
+                    "type": "Replacement",
+                    "libraryId": "-Without-Anglais-index-admin",
+                    "isValidated": true
+                }
+            ]
+        },
+        {
+            "file": "src/main/webapp/WEB-INF/admin/addcompte.jsp",
+            "seeds": [
+                {
+                    "id": "2a9ef5e4-bb3a-4f13-a336-47d1f8fb986a",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "dcae8c68-51fb-4d53-a4af-2684f3e707be",
+                    "startLine": 14,
+                    "startColumn": 0,
+                    "endLine": 51,
+                    "endColumn": 74,
+                    "type": "Replacement",
+                    "libraryId": "-Without-Anglais-admin-createaccount",
                     "isValidated": true
                 }
             ]
